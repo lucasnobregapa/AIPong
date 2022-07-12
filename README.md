@@ -1,6 +1,6 @@
 # AIPong
 
-- Implementação de Agentes Inteligentes no jogo Pong - 
+**- Implementação de Agentes Inteligentes no jogo Pong -** 
 
 Este trabalho possui como objetivo demonstrar o desenvolvimento, implementação e evolução de agentes inteligentes no jogo conhecido como "Pong", escrito em linguagem Python. Os agentes inteligentes criados servirão como oponente para o jogador humano.
 
