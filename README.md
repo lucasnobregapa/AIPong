@@ -22,3 +22,6 @@ Em seguida, recomenda-se ler e executar os outros 10 arquivos .py na ordem em qu
 Deve-se destacar que a função primária dos agentes desenvolvidos é a de servir como oponente contra o jogador humano. Nem todos os agentes possuem resultados satisfatórios.
 
 **- Autores -**
+
+Iury Almeida
+Lucas Nóbrega
