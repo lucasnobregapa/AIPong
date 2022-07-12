@@ -8,7 +8,7 @@ Este trabalho possui como objetivo demonstrar o desenvolvimento, implementação
 
 Os requisitos para a máquina a ser utilizada são:
 1. Python 3
-2. pygame
+2. Módulo pygame
 
 **- Instalação -**
 
